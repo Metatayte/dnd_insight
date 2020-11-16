@@ -1,6 +1,6 @@
 # dnd_insight
 
-A new Flutter project.
+A new flutter based application serving as a one-stop-shop for all your DnD needs. 
 
 ## Getting Started
 
